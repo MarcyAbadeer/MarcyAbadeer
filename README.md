@@ -5,7 +5,7 @@
 - ⚡ Fun fact: 🤡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcyAbadeer&show_icons=true&theme=radical)
-![Anurag's GitHub sta
+
 
 ![Snake animation](https://github.com/MarcyAbadeer/MarcyAbadeer/blob/output/github-contribution-grid-snake.svg)
 
